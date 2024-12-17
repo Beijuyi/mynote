@@ -62,6 +62,14 @@ Obsidian允许你同时使用多个光标编辑文本。你可以通过按住`Al
 
 # 结合github使用
 
+.gitignore配置
+忽略所有图片
+```text
+### obsidian ###
+**/*.png
+```
+
+
 下载git 插件
 
 ![](Pasted%20image%2020241217131400.png)
@@ -69,3 +77,5 @@ Obsidian允许你同时使用多个光标编辑文本。你可以通过按住`Al
 
 ![](Pasted%20image%2020241217131833.png)
 
+
+如何解决本地图片无法在github上展示的问题?
