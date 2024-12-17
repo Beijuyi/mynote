@@ -1,3 +1,7 @@
+# 官网
+https://obsidian.md/
+[教程](https://publish.obsidian.md/help-zh/%E7%BC%96%E8%BE%91%E4%B8%8E%E6%A0%BC%E5%BC%8F%E5%8C%96/%E7%BC%96%E8%BE%91%E7%9B%B8%E5%85%B3%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE)
+
 # 创建仓库
 
 第一次打开 Obsidian 时，Obsidian 会询问你是否要创建一个新仓库。此时你有两个选择，你可以创建一个新仓库，或者将现有文件夹作为仓库打开。
@@ -62,15 +66,29 @@ Obsidian允许你同时使用多个光标编辑文本。你可以通过按住`Al
 
 # 结合github使用
 
-.gitignore配置
+## .gitignore配置
 忽略所有图片
 ```text
 ### obsidian ###
 **/*.png
 ```
+### 忽略规则
 
+忽略文件
 
-下载git 插件
+1. 忽略当前路径下的a.md文件： `a.md`
+2. 忽略根目录下的e.md文件：`/e.md`
+3. 忽略当前路径下的Abox文件夹下的b.md文件：`Abox/b.md`
+4. 忽略当前路径下的Abox文件夹下**多级目录**下的的c.md文件：`Abox/**/c.md`
+5. 忽略所有文件夹下的d.md文件：`**/d.md`
+6. 忽略所有.png文件（某个后缀）：`*.png*`
+
+忽略文件夹
+
+1. 忽略当前路径下的Abox文件夹（整个文件夹都不上传）：`Abox/`
+2. 忽略根目录下的Bbox文件夹：`/Bbox`
+
+## 下载git 插件
 
 ![](Pasted%20image%2020241217131400.png)
 我不需要自动同步,我需要手动控制提交
@@ -79,3 +97,4 @@ Obsidian允许你同时使用多个光标编辑文本。你可以通过按住`Al
 
 
 如何解决本地图片无法在github上展示的问题?
+那就不在github上展示了

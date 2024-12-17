@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d944282e46ed23",
+        "id": "687c1e8bec8ab8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "514d760c26b852cf",
+            "id": "cdaadf3e50b3bdb0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "技术文章/OWASP 漏洞防护.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "icon": "lucide-file",
+              "title": "OWASP 漏洞防护"
             }
           }
         ]
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技术文章/OWASP 漏洞防护.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "OWASP 漏洞防护 的反向链接列表"
             }
           },
           {
@@ -110,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技术文章/OWASP 漏洞防护.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "OWASP 漏洞防护 的出链列表"
             }
           },
           {
@@ -135,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "技术文章/OWASP 漏洞防护.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "OWASP 漏洞防护 的大纲"
             }
           },
           {
@@ -168,8 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "514d760c26b852cf",
+  "active": "cdaadf3e50b3bdb0",
   "lastOpenFiles": [
+    "技术文章/GraalVM Native Image maven 插件.md",
+    "技术文章/OWASP 漏洞防护.md",
+    "未命名.md",
+    "未命名 1.md",
+    "未命名 2.md",
+    "技术文章",
     "如何使用obsidian/obsidian使用教程.md",
     "Markdown语法/attachments/Pasted image 20241217113242.png",
     "Markdown语法/attachments/Pasted image 20241217112931.png",
@@ -186,9 +197,7 @@
     "Markdown语法/基本语法.md",
     "Markdown语法/高级语法.md",
     "Markdown语法/未命名 1.md",
-    "未命名.md",
     "Markdown语法",
-    "未命名 1.md",
     "如何使用obsidian"
   ]
 }
