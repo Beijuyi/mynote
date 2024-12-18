@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术文章/OWASP 漏洞防护.md",
+                "file": "技术文章/前端三大件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OWASP 漏洞防护"
+              "title": "前端三大件"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术文章/OWASP 漏洞防护.md"
+                "file": "技术文章/前端三大件.md"
               },
               "icon": "lucide-list",
-              "title": "OWASP 漏洞防护 的大纲"
+              "title": "前端三大件 的大纲"
             }
           },
           {
@@ -173,10 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdaadf3e50b3bdb0",
+  "active": "fe93f8c1fc7d979a",
   "lastOpenFiles": [
-    "技术文章/GraalVM Native Image maven 插件.md",
+    "技术文章/attachments/Pasted image 20241218131548.png",
+    "技术文章/attachments",
     "技术文章/OWASP 漏洞防护.md",
+    "技术文章/前端三大件.md",
+    "技术文章/GraalVM Native Image maven 插件.md",
     "未命名.md",
     "未命名 1.md",
     "未命名 2.md",
