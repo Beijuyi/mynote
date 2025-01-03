@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术文章/工具.md",
+                "file": "技术文章/开发最佳实践建议.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具"
+              "title": "开发最佳实践建议"
             }
           }
         ]
@@ -94,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术文章/工具.md"
+                "file": "技术文章/开发最佳实践建议.md"
               },
               "icon": "lucide-list",
-              "title": "工具 的大纲"
+              "title": "开发最佳实践建议 的大纲"
             }
           }
         ]
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +194,9 @@
   },
   "active": "4255f2395f49eae3",
   "lastOpenFiles": [
-    "技术文章/AI.md",
     "技术文章/工具.md",
+    "技术文章/开发最佳实践建议.md",
+    "技术文章/AI.md",
     "技术文章/类加载.md",
     "技术文章/attachments/Pasted image 20241226195029.png",
     "技术文章/字节码.md",
