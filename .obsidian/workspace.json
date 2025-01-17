@@ -23,51 +23,37 @@
             }
           },
           {
-            "id": "be4d0e2f9b3096db",
+            "id": "b82368b5730608e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术文章/Java 编程思想.md",
+                "file": "技术文章/JDK-动态代理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java 编程思想"
+              "title": "JDK-动态代理"
             }
           },
           {
-            "id": "d5c52d3bc316d635",
+            "id": "914317262373da67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术文章/动态代理.md",
+                "file": "技术文章/读源码.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "动态代理"
-            }
-          },
-          {
-            "id": "b01e79c740ef64fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文章/Spring AOP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring AOP"
+              "title": "读源码"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术文章/编程技术 Road Map.md"
+                "file": "技术文章/读源码.md"
               },
               "icon": "lucide-list",
-              "title": "编程技术 Road Map 的大纲"
+              "title": "读源码 的大纲"
             }
           }
         ]
@@ -237,10 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b1bd656f400edbc",
+  "active": "914317262373da67",
   "lastOpenFiles": [
-    "技术文章/Java 编程思想.md",
+    "技术文章/JDK-动态代理.md",
+    "技术文章/读源码.md",
+    "技术文章/attachments/Pasted image 20250116133916.png",
+    "技术文章/attachments/Pasted image 20250116133519.png",
+    "技术文章/attachments/Pasted image 20250116130901.png",
     "技术文章/编程技术 Road Map.md",
+    "技术文章/Java 编程思想.md",
     "技术文章/动态代理.md",
     "技术文章/Spring AOP.md",
     "技术文章/attachments/Pasted image 20250114124522.png",
@@ -264,9 +255,6 @@
     "技术文章/attachments/Pasted image 20241226130443.png",
     "技术文章/attachments/Pasted image 20241225132258.png",
     "技术文章/attachments/Pasted image 20241225131834.png",
-    "技术文章/attachments/Pasted image 20241225130958.png",
-    "技术文章/attachments/Pasted image 20241225130843.png",
-    "技术文章/attachments/Pasted image 20241225125214.png",
     "技术文章/Java 多线程.md",
     "技术文章/漏洞 HSTS.md",
     "技术文章/URL.md",
@@ -274,7 +262,6 @@
     "技术文章/OWASP 漏洞防护.md",
     "技术文章/前端三大件.md",
     "技术文章/attachments",
-    "技术文章/GraalVM Native Image maven 插件.md",
     "技术文章",
     "Markdown语法/attachments",
     "如何使用obsidian/attachments",
