@@ -15,7 +15,7 @@
 第 4 点, 技术的成长需要时间的积累, 不要高估短时间努力的效果, 也不要低估长期坚持所带来的改变, 平静心态, 做正确的事情即可.
 
 
-# 挑战
+# 挑战原理
 
 > [!参考文档]
 > https://www.cnblogs.com/xrq730/category/739345.html
@@ -28,6 +28,12 @@ Spring 相关
 - [ ] Spring 事务
 - [ ] Java 反射机制
 - [ ] Java spi 机制
+Springmvc 相关
+- [ ] Springmvc 中的视图解析器配置 [SpringBoot应用配置常用相关视图解析器 - jimisun - 博客园](https://www.cnblogs.com/jimisun/p/10092137.html)
+- [ ] Springmvc dispatchServlet 流程
+软件架构
+- [ ] MVC 三层架构前后端分离  [前后端、三层架构和MVC傻傻分不清](https://blog.csdn.net/luohaitao/article/details/136460212)
+- [ ] 
 
 读源码
 首先目标是要读懂jdk 的源码库, 从源码库中学习东西.
