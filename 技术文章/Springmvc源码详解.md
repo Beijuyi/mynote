@@ -49,3 +49,32 @@ Springmvc 是 spring 专门用来开发 web 项目的框架, 主要有以下特�
 
 `method.invoke(getBean(), args)` 最后是通过反射来调用控制器 controller中的方法
 
+![](Pasted%20image%2020250120130433.png)
+
+
+# 各组件作用
+
+## 前端控制器
+
+前端控制器处理所有从用户过来的请求。所有用户的请求都要通过前端控制器。
+Springmvc 中DispatcherServlet 就是一种前端控制器,它和Spring容器无缝整合在了一起.
+
+**过程描述**: 
+- 一个http请求到达服务器，被DispatcherServlet接收。
+- DispatcherServlet将请求委派给合适的处理器Controller，此时处理控制权到达Controller对象。
+- Controller内部完成请求的数据模型的创建和业务逻辑的处理，
+- 然后再将填充了数据后的模型即model和控制权一并交还给DispatcherServlet，委派DispatcherServlet来渲染响应。
+- DispatcherServlet再将这些数据和适当的数据模版视图结合，向Response输出响应。
+
+# Springmvc 的设计亮点
+
+**父类抽象处理流程，子类给予具体的实现**
+
+# Springmvc 和 tomcat 是如何交互的?
+
+**DispatcherServlet是tomcat与Spring程序进行连接的纽带。**
+DispatcherServlet 是 springmvc 中的组件, 同时DispatcherServlet 又继承了HttpServlet,HttpServlet 又继承了GenericServlet,GenericServlet 实现了 tomcat 中的Servlet 接口.
+
+
+
+https://www.cnblogs.com/kukuxjx/p/17325621.html

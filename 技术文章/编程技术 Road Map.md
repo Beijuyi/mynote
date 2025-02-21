@@ -21,7 +21,7 @@
 > https://www.cnblogs.com/xrq730/category/739345.html
 > 
 
-Spring 相关
+## Spring 相关
 - [x] AOP, 动态代理, 静态代理实现
 - [ ] Spring AOP 的 jdk 和 cglib 代理如何实现 callback, 让方法执行增强方法? 读java.lang.reflect源码
 - [ ] Spring 单例和多例, 原理, 应用场景
@@ -35,7 +35,7 @@ Springmvc 相关
 - [ ] MVC 三层架构前后端分离  [前后端、三层架构和MVC傻傻分不清](https://blog.csdn.net/luohaitao/article/details/136460212)
 - [ ] 
 
-读源码
+## 读源码
 首先目标是要读懂jdk 的源码库, 从源码库中学习东西.
 进一步, 要高效读源码, 需要有一套读源码的方法.
 要对源码对象的作用有一个基本认知, 它为什么会出现, 解决了什么问题, 它的解决方案是什么, 它有哪些特性, 这些特性如何实现的, 最后是我从中能学到什么东西.
@@ -47,3 +47,12 @@ Springmvc 相关
 	- [ ] 有哪些特性
 	- [ ] 如何实现的
 	- [ ] 我学到了什么
+
+
+## 排查问题技术
+
+- [ ] Java 远程 debug
+	- [x] Springboot
+	- [x] Tomcat
+	- [x] Jetty
+- [ ] 抓包

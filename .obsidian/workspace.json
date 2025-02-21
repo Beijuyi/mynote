@@ -8,48 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "914317262373da67",
+            "id": "c8f26bcabd39640f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术文章/读源码.md",
+                "file": "技术文章/Tomcat原理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读源码"
+              "title": "Tomcat原理"
             }
           },
           {
-            "id": "ef205b80fff9b356",
+            "id": "33fc817d8f5f0a41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术文章/设计模式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "设计模式"
+            }
+          },
+          {
+            "id": "b21fb176e0e945be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "技术文章/springboot自动装配-springwebmvc.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "springboot自动装配-springwebmvc"
-            }
-          },
-          {
-            "id": "c8f26bcabd39640f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文章/Springmvc源码详解.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Springmvc源码详解"
             }
           }
         ],
@@ -72,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -84,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DispatcherServlet",
+                "query": "工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +115,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 283.5
   },
   "right": {
     "id": "f45314787218b80b",
@@ -126,10 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术文章/Springmvc源码详解.md"
+                "file": "技术文章/springboot自动装配-springwebmvc.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Springmvc源码详解 的大纲"
+              "title": "springboot自动装配-springwebmvc 的大纲"
             }
           }
         ]
@@ -224,44 +236,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed458b6ee67f2955",
+  "active": "52552aff196628fd",
   "lastOpenFiles": [
-    "技术文章/attachments/Pasted image 20250119110243.png",
-    "技术文章/springboot自动装配-springwebmvc.md",
-    "技术文章/Springmvc源码详解.md",
     "技术文章/读源码.md",
-    "技术文章/JDK-动态代理.md",
-    "技术文章/工具.md",
+    "技术文章/spring注解.md",
+    "技术文章/计算机网络.md",
+    "技术文章/大神博客.md",
+    "技术文章/优质资源.md",
+    "技术文章/奶粉.md",
+    "技术文章/字节码.md",
+    "技术文章/attachments/Pasted image 20250210131640.png",
     "技术文章/编程技术 Road Map.md",
+    "2025-02-05.md",
+    "技术文章/抓包.md",
+    "技术文章/attachments/Pasted image 20250124132227.png",
+    "技术文章/attachments/Pasted image 20250124132203.png",
+    "技术文章/attachments/Pasted image 20250124131854.png",
+    "技术文章/attachments/Pasted image 20250124131432.png",
+    "技术文章/工具.md",
+    "技术文章/spring扩展.md",
+    "技术文章/设计模式.md",
+    "技术文章/Tomcat原理.md",
+    "技术文章/Springmvc源码详解.md",
+    "技术文章/springboot自动装配-springwebmvc.md",
+    "技术文章/attachments/Pasted image 20250122132622.png",
+    "技术文章/attachments/Pasted image 20250121132937.png",
+    "技术文章/attachments/Pasted image 20250120130433.png",
+    "技术文章/attachments/Pasted image 20250119110243.png",
+    "技术文章/JDK-动态代理.md",
     "技术文章/Springmvc和MVC模式.md",
     "技术文章/attachments/Pasted image 20250117131914.png",
-    "技术文章/attachments/Pasted image 20250116133916.png",
-    "技术文章/attachments/Pasted image 20250116133519.png",
-    "技术文章/attachments/Pasted image 20250116130901.png",
     "技术文章/Java 编程思想.md",
     "技术文章/动态代理.md",
     "技术文章/Spring AOP.md",
-    "技术文章/attachments/Pasted image 20250114124522.png",
     "技术文章/[Spring.md",
     "技术文章/JDK动态代理源码分析.md",
     "技术文章/IDEA 实用技巧.md",
     "技术文章/MFA多因子认证.md",
-    "技术文章/Git.md",
-    "Markdown语法/基本语法.md",
-    "技术文章/开发最佳实践建议.md",
-    "Markdown语法/高级语法.md",
-    "如何使用obsidian/obsidian使用教程.md",
-    "技术文章/attachments/Pasted image 20250108140644.png",
-    "技术文章/attachments/Pasted image 20250108103642.png",
-    "技术文章/AI.md",
-    "技术文章/类加载.md",
-    "技术文章/attachments/Pasted image 20241226195029.png",
-    "技术文章/字节码.md",
-    "技术文章/漏洞 SSRF.md",
-    "技术文章/attachments/Pasted image 20241226130443.png",
-    "技术文章/attachments/Pasted image 20241225132258.png",
-    "技术文章/Java 多线程.md",
-    "技术文章/漏洞 HSTS.md",
     "技术文章/attachments",
     "技术文章",
     "Markdown语法/attachments",
