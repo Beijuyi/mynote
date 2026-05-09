@@ -4,46 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f395efa615f6d4",
+        "id": "64f186a381f47d35",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f26bcabd39640f",
+            "id": "4d180f786ddbdf25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术文章/Tomcat原理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tomcat原理"
-            }
-          },
-          {
-            "id": "33fc817d8f5f0a41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文章/设计模式.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "设计模式"
-            }
-          },
-          {
-            "id": "b21fb176e0e945be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文章/springboot自动装配-springwebmvc.md",
+                "file": "技术文章/大神博客.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,11 +28,71 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "springboot自动装配-springwebmvc"
+              "title": "大神博客"
+            }
+          },
+          {
+            "id": "dda1d4442426f368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programmer in AI/如何用好AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何用好AI"
+            }
+          },
+          {
+            "id": "652b172a558dd027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术文章/工具.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "工具"
+            }
+          },
+          {
+            "id": "668058e563b33941",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "工具",
+                "query": "下载",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,11 +145,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 313.5
   },
   "right": {
     "id": "f45314787218b80b",
@@ -135,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术文章/springboot自动装配-springwebmvc.md",
+                "file": "技术文章/工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "springboot自动装配-springwebmvc 的大纲"
+              "title": "工具 的大纲"
             }
           }
         ]
@@ -223,10 +254,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -236,15 +268,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52552aff196628fd",
+  "active": "668058e563b33941",
   "lastOpenFiles": [
+    "programmer in AI/如何用好AI.md",
+    "programmer in AI",
+    "技术文章/Java应用安全.md",
+    "技术文章/Java 多线程.md",
+    "技术文章/java注解.md",
+    "技术文章/字节码.md",
+    "技术文章/工具.md",
+    "技术文章/Mybatis.md",
+    "技术文章/Mysql.md",
+    "技术文章/大神博客.md",
+    "JAVA基础.md",
+    "未命名.canvas",
+    "技术文章/attachments/Pasted image 20250226192726.png",
+    "springboot源码.md",
+    "技术文章/springboot自动装配-springwebmvc.md",
     "技术文章/读源码.md",
     "技术文章/spring注解.md",
     "技术文章/计算机网络.md",
-    "技术文章/大神博客.md",
     "技术文章/优质资源.md",
     "技术文章/奶粉.md",
-    "技术文章/字节码.md",
     "技术文章/attachments/Pasted image 20250210131640.png",
     "技术文章/编程技术 Road Map.md",
     "2025-02-05.md",
@@ -253,26 +298,16 @@
     "技术文章/attachments/Pasted image 20250124132203.png",
     "技术文章/attachments/Pasted image 20250124131854.png",
     "技术文章/attachments/Pasted image 20250124131432.png",
-    "技术文章/工具.md",
     "技术文章/spring扩展.md",
     "技术文章/设计模式.md",
     "技术文章/Tomcat原理.md",
     "技术文章/Springmvc源码详解.md",
-    "技术文章/springboot自动装配-springwebmvc.md",
     "技术文章/attachments/Pasted image 20250122132622.png",
     "技术文章/attachments/Pasted image 20250121132937.png",
     "技术文章/attachments/Pasted image 20250120130433.png",
     "技术文章/attachments/Pasted image 20250119110243.png",
     "技术文章/JDK-动态代理.md",
     "技术文章/Springmvc和MVC模式.md",
-    "技术文章/attachments/Pasted image 20250117131914.png",
-    "技术文章/Java 编程思想.md",
-    "技术文章/动态代理.md",
-    "技术文章/Spring AOP.md",
-    "技术文章/[Spring.md",
-    "技术文章/JDK动态代理源码分析.md",
-    "技术文章/IDEA 实用技巧.md",
-    "技术文章/MFA多因子认证.md",
     "技术文章/attachments",
     "技术文章",
     "Markdown语法/attachments",
