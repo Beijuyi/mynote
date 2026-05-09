@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "我的博客/人生应该有坚持做的事情.md",
+                "file": "随想录/2026-05-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "人生应该有坚持做的事情"
+              "title": "2026-05-09"
             }
           }
         ],
@@ -129,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的博客/人生应该有坚持做的事情.md",
+                "file": "随想录/2026-05-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "人生应该有坚持做的事情 的大纲"
+              "title": "2026-05-09 的大纲"
             }
           }
         ]
@@ -231,10 +231,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dda1d4442426f368",
+  "active": "52552aff196628fd",
   "lastOpenFiles": [
-    "springboot源码.md",
     "我的博客/人生应该有坚持做的事情.md",
+    "随想录/2026-05-09.md",
+    "随想录",
+    "如何使用obsidian/obsidian使用教程.md",
+    "springboot源码.md",
     "我的博客",
     "未命名.canvas",
     "programmer in AI/如何用好AI.md",
@@ -267,12 +270,10 @@
     "技术文章/spring扩展.md",
     "技术文章/设计模式.md",
     "技术文章/Tomcat原理.md",
-    "技术文章/Springmvc源码详解.md",
     "技术文章/attachments/Pasted image 20250122132622.png",
     "技术文章/attachments/Pasted image 20250121132937.png",
     "技术文章/attachments/Pasted image 20250120130433.png",
     "技术文章/attachments/Pasted image 20250119110243.png",
-    "技术文章/JDK-动态代理.md",
     "技术文章/attachments",
     "技术文章",
     "Markdown语法/attachments",
