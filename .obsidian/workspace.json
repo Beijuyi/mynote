@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmer in AI/如何用好AI.md",
+                "file": "我的博客/人生应该有坚持做的事情.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,47 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "如何用好AI"
-            }
-          },
-          {
-            "id": "652b172a558dd027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术文章/工具.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "工具"
-            }
-          },
-          {
-            "id": "668058e563b33941",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "title": "人生应该有坚持做的事情"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +109,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术文章/工具.md",
+                "file": "我的博客/人生应该有坚持做的事情.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工具 的大纲"
+              "title": "人生应该有坚持做的事情 的大纲"
             }
           }
         ]
@@ -268,22 +231,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "668058e563b33941",
+  "active": "dda1d4442426f368",
   "lastOpenFiles": [
+    "springboot源码.md",
+    "我的博客/人生应该有坚持做的事情.md",
+    "我的博客",
+    "未命名.canvas",
     "programmer in AI/如何用好AI.md",
+    "2025-02-05.md",
+    "技术文章/工具.md",
+    "未命名.base",
     "programmer in AI",
     "技术文章/Java应用安全.md",
     "技术文章/Java 多线程.md",
     "技术文章/java注解.md",
     "技术文章/字节码.md",
-    "技术文章/工具.md",
     "技术文章/Mybatis.md",
     "技术文章/Mysql.md",
     "技术文章/大神博客.md",
     "JAVA基础.md",
-    "未命名.canvas",
     "技术文章/attachments/Pasted image 20250226192726.png",
-    "springboot源码.md",
     "技术文章/springboot自动装配-springwebmvc.md",
     "技术文章/读源码.md",
     "技术文章/spring注解.md",
@@ -292,7 +259,6 @@
     "技术文章/奶粉.md",
     "技术文章/attachments/Pasted image 20250210131640.png",
     "技术文章/编程技术 Road Map.md",
-    "2025-02-05.md",
     "技术文章/抓包.md",
     "技术文章/attachments/Pasted image 20250124132227.png",
     "技术文章/attachments/Pasted image 20250124132203.png",
@@ -307,7 +273,6 @@
     "技术文章/attachments/Pasted image 20250120130433.png",
     "技术文章/attachments/Pasted image 20250119110243.png",
     "技术文章/JDK-动态代理.md",
-    "技术文章/Springmvc和MVC模式.md",
     "技术文章/attachments",
     "技术文章",
     "Markdown语法/attachments",
