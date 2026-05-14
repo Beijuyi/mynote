@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随想录/2026-05-09.md",
+                "file": "programmer in AI/如何用好AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-09"
+              "title": "如何用好AI"
+            }
+          },
+          {
+            "id": "7f5d2fc7a1c7af2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programmer in AI/Agent编排.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Agent编排"
+            }
+          },
+          {
+            "id": "8184b24b8b0bb2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programmer in AI/如何注册 Google 邮箱.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "如何注册 Google 邮箱"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随想录/2026-05-09.md",
+                "file": "programmer in AI/如何注册 Google 邮箱.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-09 的大纲"
+              "title": "如何注册 Google 邮箱 的大纲"
             }
           }
         ]
@@ -231,16 +279,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52552aff196628fd",
+  "active": "8184b24b8b0bb2b2",
   "lastOpenFiles": [
-    "我的博客/人生应该有坚持做的事情.md",
+    "programmer in AI/Agent编排.md",
+    "programmer in AI/如何注册 Google 邮箱.md",
+    "经验",
+    "programmer in AI/如何用好AI.md",
     "随想录/2026-05-09.md",
+    "我的博客/人生应该有坚持做的事情.md",
     "随想录",
     "如何使用obsidian/obsidian使用教程.md",
     "springboot源码.md",
     "我的博客",
     "未命名.canvas",
-    "programmer in AI/如何用好AI.md",
     "2025-02-05.md",
     "技术文章/工具.md",
     "未命名.base",
@@ -268,8 +319,6 @@
     "技术文章/attachments/Pasted image 20250124131854.png",
     "技术文章/attachments/Pasted image 20250124131432.png",
     "技术文章/spring扩展.md",
-    "技术文章/设计模式.md",
-    "技术文章/Tomcat原理.md",
     "技术文章/attachments/Pasted image 20250122132622.png",
     "技术文章/attachments/Pasted image 20250121132937.png",
     "技术文章/attachments/Pasted image 20250120130433.png",
@@ -278,7 +327,6 @@
     "技术文章",
     "Markdown语法/attachments",
     "如何使用obsidian/attachments",
-    "Markdown语法",
-    "如何使用obsidian"
+    "Markdown语法"
   ]
 }
